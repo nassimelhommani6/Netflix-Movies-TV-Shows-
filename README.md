@@ -1,1 +1,5 @@
-# Netflix-Movies-TV-Shows-
+# Netflix Movies TV Shows Analysis 
+
+![image](https://user-images.githubusercontent.com/130168330/230746134-1bca34dc-a67d-4cbd-9fc3-ebb9b96c9a8b.png)
+
+The project aims to analyze a dataset of over 8,000 movies and TV shows available on Netflix between 2008 to 2021, sourced from Kaggle. The dataset contains information such as cast, directors, ratings, release year, duration, and more. The analysis of the dataset presents exciting opportunities such as understanding the content available in different countries, identifying similar content, network analysis of actors and directors, exploring whether Netflix has more focus on TV shows than movies, and determining the target audience of their content. The goal is to provide valuable insights to Netflix and enable them to enhance their platform to better cater to their users' needs and preferences. However, before conducting any analysis, the dataset needs to be cleaned by treating null values, handling duplicates, populating missing rows, dropping unnecessary columns, standardizing date formats, and validating data to remove inconsistent characters
